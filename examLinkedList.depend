@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1635903276 source:c:\users\samsung\desktop\code\examlinkedlist\main.cpp
+	<iostream>
+	"linkedList.h"
+	"unorderedLinkedList.h"
+	"orderedLinkedList.h"
+	"linkedList.h"
+	<string>
+	<stack>
+	<list>
+
+1635902596 c:\users\samsung\desktop\code\examlinkedlist\linkedlist.h
+	<cassert>
+	<iostream>
+
+1635903340 c:\users\samsung\desktop\code\examlinkedlist\unorderedlinkedlist.h
+	"linkedlist.h"
+
+1635371715 c:\users\samsung\desktop\code\examlinkedlist\orderedlinkedlist.h
+	"linkedList.h"
+	<vector>
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<iterator>
+
